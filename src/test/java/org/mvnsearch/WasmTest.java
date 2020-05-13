@@ -1,6 +1,6 @@
 package org.mvnsearch;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.wasmer.Instance;
 import org.wasmer.Memory;
 
