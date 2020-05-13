@@ -8,8 +8,8 @@ Wasmer Java Runtime Demo
 * Greet
 
 ### Settings on Mac
-
-Please copy libwasmer_jni.dylib to  ~/Library/Java/Extensions/
+If you get "java.lang.UnsatisfiedLinkError: no wasmer_jni in java.library.path" error,
+please copy libwasmer_jni.dylib to  ~/Library/Java/Extensions/
 
 # References
 
